@@ -1,0 +1,1 @@
+all the output JPG images will be generated here
